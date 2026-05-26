@@ -1,0 +1,1 @@
+# basisdata-7-Teknik-Optimasi-Query-dalam-SQL
